@@ -1,5 +1,4 @@
-Hello everyone welcome to my git guide
+Welcome to Git!
 
-yoo
-
+This is comming from dev Beto
 - Im adding this from 'feauture-branch'
